@@ -1,4 +1,5 @@
-# 👋 你好, 我是 Lirzh!
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 你好, 我是 Lirzh!)
+
 
 ## 📊 GitHub 统计
  ![Lirzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lirzh)
