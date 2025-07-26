@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 你好, 我是 Lirzh!)
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好, 我是 Lirzh!)
 
 
 ## 📊 GitHub 统计
