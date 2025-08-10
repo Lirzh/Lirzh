@@ -27,7 +27,9 @@
   </picture>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lirzh)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lirzh" alt="GitHub Streak" width="50%" />
+</div>
 
 ## 🚀 开发境界
 <div align="center">
