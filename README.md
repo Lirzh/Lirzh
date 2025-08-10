@@ -27,6 +27,8 @@
   </picture>
 </div>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lirzh)
+
 ## 🚀 开发境界
 <div align="center">
   <img src="https://github-immortality.vercel.app/api?username=lirzh" alt="IceEnd's GitHub stats" width="50%" />
