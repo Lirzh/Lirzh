@@ -17,8 +17,8 @@
 
 ## 📕 &nbsp;**我的博客**
 <!-- BLOG-POST-LIST:START -->
-- [关于HydroOJ的自我看法](https://drop.i996.me//article/HydroOJ-1)
-- [我的世界优化指南](https://drop.i996.me//article/mc-1)
+- [关于HydroOJ的自我看法](https://Lirzh.top//article/HydroOJ-1)
+- [我的世界优化指南](https://Lirzh.top//article/mc-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 活动记录
