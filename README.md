@@ -17,6 +17,11 @@
 
 ## 📕 &nbsp;**我的博客**
 <!-- BLOG-POST-LIST:START -->
+- [关于HydroOJ的自我看法](https://drop.i996.me//article/HydroOJ)
+- [加锁文章 - 密码123456](https://drop.i996.me//article/example-2)
+- [EMPTY-ARTICLE](https://drop.i996.me//article/example-3)
+- [绑定成功测试](https://drop.i996.me//article/example-4)
+- [空白文章](https://drop.i996.me//article/example-7)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 活动记录
