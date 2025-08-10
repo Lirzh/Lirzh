@@ -17,6 +17,7 @@
 
 ## 📈 活动记录
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lirzh" alt="GitHub Streak" width="50%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lirzh&theme=github-light&hide_border=true" alt="GitHub activity graph" width="90%" />
   
   <!-- 贡献蛇形动画 -->
@@ -25,10 +26,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg" width="90%" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lirzh" alt="GitHub Streak" width="50%" />
 </div>
 
 ## 🚀 开发境界
