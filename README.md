@@ -17,6 +17,7 @@
 
 ## 📕 &nbsp;**我的博客**
 <!-- BLOG-POST-LIST:START -->
+- [关于信奥赛的一些知识](https://Lirzh.top//article/251e6e71-cc04-802c-b98f-f1dff3cb2e13)
 - [关于HydroOJ的自我看法](https://Lirzh.top//article/HydroOJ-1)
 - [我的世界优化指南](https://Lirzh.top//article/mc-1)
 <!-- BLOG-POST-LIST:END -->
