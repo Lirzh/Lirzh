@@ -41,29 +41,13 @@
 </div>
 
 ## 👍 我的贡献
-<div align="center">
-  <a href="https://github.com/hydro-dev/hydro-dev.github.io/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/hydro--dev-Hydro%20Dev-blue?style=for-the-badge" alt="hydro-dev · Hydro Dev">
-  </a>
-  <a href="https://github.com/GSManagerXZ/GameServerManager/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/GSManagerXZ-Game%20Server%20Manager-green?style=for-the-badge" alt="GSManagerXZ · Game Server Manager">
-  </a>
-  <a href="https://github.com/open33oj/hydro-plugins/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/open33oj-Hydro%20Plugins-yellow?style=for-the-badge" alt="open33oj · Hydro Plugins">
-  </a>
-  <a href="https://github.com/ZNink/EWT360-Helper/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/ZNink-EWT360%20Helper-orange?style=for-the-badge" alt="ZNink · EWT360 Helper">
-  </a>
-  <a href="https://github.com/criyle/go-judge-doc/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/criyle-Go%20Judge-red?style=for-the-badge" alt="criyle · Go Judge">
-  </a>
-  <a href="https://github.com/UCKETX/mcsm-templates/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/UCKETX-MCSM%20Templates-purple?style=for-the-badge" alt="UCKETX · MCSM Templates">
-  </a>
-  <a href="https://github.com/laoshuikaixue/VoiceHub" target="_blank">
-    <img src="https://img.shields.io/badge/laoshuikaixue-VoiceHub-lightgrey?style=for-the-badge" alt="laoshuikaixue · VoiceHub">
-  </a>
-</div>
+- [hydro-dev · Hydro Dev](https://github.com/hydro-dev/hydro-dev.github.io/graphs/contributors)
+- [GSManagerXZ · Game Server Manager](https://github.com/GSManagerXZ/GameServerManager/graphs/contributors)
+- [open33oj · Hydro Plugins](https://github.com/open33oj/hydro-plugins/graphs/contributors)
+- [ZNink · EWT360 Helper](https://github.com/ZNink/EWT360-Helper/graphs/contributors)
+- [criyle · Go Judge](https://github.com/criyle/go-judge-doc/graphs/contributors)
+- [UCKETX · MCSM Templates](https://github.com/UCKETX/mcsm-templates/graphs/contributors)
+- [laoshuikaixue · VoiceHub](https://github.com/laoshuikaixue/VoiceHub)
 
 ---
 
