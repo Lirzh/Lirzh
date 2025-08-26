@@ -40,8 +40,28 @@
   <img src="https://github-immortality.vercel.app/api?username=lirzh" alt="IceEnd's GitHub stats" width="50%" />
 </div>
 
+## 👍 我的贡献
+<div align="center">
+  <a href="https://github.com/hydro-dev/hydro-dev.github.io/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/Hydro-Dev-blue?style=for-the-badge" alt="Hydro Dev">
+  </a>
+  <a href="https://github.com/GSManagerXZ/GameServerManager/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/GameServer-Manager-green?style=for-the-badge" alt="Game Server Manager">
+  </a>
+  <a href="https://github.com/open33oj/hydro-plugins/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/Hydro-Plugins-yellow?style=for-the-badge" alt="Hydro Plugins">
+  </a>
+  <a href="https://github.com/ZNink/EWT360-Helper/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/EWT360-Helper-orange?style=for-the-badge" alt="EWT360 Helper">
+  </a>
+  <a href="https://github.com/criyle/go-judge-doc/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/Go-Judge-red?style=for-the-badge" alt="Go Judge">
+  </a>
+  <a href="https://github.com/UCKETX/mcsm-templates/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/MCSM-Templates-purple?style=for-the-badge" alt="MCSM Templates">
+  </a>
+</div>
 ---
-
 <div align="center">
   <sub>✨ 感谢访问我的 GitHub 主页 | 持续更新中...</sub>
 </div>
