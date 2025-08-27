@@ -12,7 +12,7 @@
 
 ## 🏆 成就徽章
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lirzh&theme=flat&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="github-profile-trophy.lirzh.top/?username=lirzh&theme=flat&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </div>
 
 ## 📕 &nbsp;**我的博客**
