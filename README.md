@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Lirzh" alt="GitHub Streak" width="50%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lirzh&theme=github-light&hide_border=true" alt="GitHub activity graph" width="90%" />
-  
+
   <!-- 贡献蛇形动画 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
@@ -41,13 +41,14 @@
 </div>
 
 ## 👍 我的贡献
-- [hydro-dev · Hydro Dev](https://github.com/hydro-dev/hydro-dev.github.io/graphs/contributors)
+- [hydro-dev · hydro-dev.github.io](https://github.com/hydro-dev/hydro-dev.github.io/graphs/contributors)
 - [GSManagerXZ · Game Server Manager](https://github.com/GSManagerXZ/GameServerManager/graphs/contributors)
 - [open33oj · Hydro Plugins](https://github.com/open33oj/hydro-plugins/graphs/contributors)
 - [ZNink · EWT360 Helper](https://github.com/ZNink/EWT360-Helper/graphs/contributors)
-- [criyle · Go Judge](https://github.com/criyle/go-judge-doc/graphs/contributors)
+- [criyle · Go Judge Doc](https://github.com/criyle/go-judge-doc/graphs/contributors)
 - [UCKETX · MCSM Templates](https://github.com/UCKETX/mcsm-templates/graphs/contributors)
 - [laoshuikaixue · VoiceHub](https://github.com/laoshuikaixue/VoiceHub)
+- [laoshuikaixue · VoiceHub-docs](https://github.com/laoshuikaixue/VoiceHub-docs)
 
 ---
 
