@@ -2,7 +2,7 @@
 
 ---
 
-Open Source Enthusiast / A boy born in 2010 / INTJ-A
+Open Source Enthusiast / A boy born in 2010 / INTJ-A / A member of [STCN](https://smart-teach.cn/)
 
 I am currently a Grade 10 student at Putian No.1 High School in Fujian, China.
 
