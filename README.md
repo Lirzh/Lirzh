@@ -69,8 +69,8 @@ Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutti
 - [ZNink · EWT360 Helper](https://github.com/ZNink/EWT360-Helper/graphs/contributors)
 - [criyle · Go Judge Doc](https://github.com/criyle/go-judge-doc/graphs/contributors)
 - [UCKETX · MCSM Templates](https://github.com/UCKETX/mcsm-templates/graphs/contributors)
-- [laoshuikaixue · VoiceHub](https://github.com/laoshuikaixue/VoiceHub)
-- [laoshuikaixue · VoiceHub-docs](https://github.com/laoshuikaixue/VoiceHub-docs)
+- [laoshuikaixue · VoiceHub](https://github.com/laoshuikaixue/VoiceHub/graphs/contributors)
+- [liyixin21 · vercel-chinese](https://github.com/liyixin21/vercel-chinese/graphs/contributors)
 
 ---
 
