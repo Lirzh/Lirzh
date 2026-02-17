@@ -71,7 +71,7 @@ Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutti
 - [UCKETX · MCSM Templates](https://github.com/UCKETX/mcsm-templates/graphs/contributors)
 - [laoshuikaixue · VoiceHub](https://github.com/laoshuikaixue/VoiceHub/graphs/contributors)
 - [liyixin21 · vercel-chinese](https://github.com/liyixin21/vercel-chinese/graphs/contributors)
-- [lQQHKX · Immersive-clock](https://github.com/QQHKX/Immersive-clock/graphs/contributors)
+- [QQHKX · Immersive-clock](https://github.com/QQHKX/Immersive-clock/graphs/contributors)
 
 ---
 
