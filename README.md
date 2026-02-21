@@ -32,10 +32,6 @@ Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutti
 
 ## 📕 &nbsp;**My Blog**
 <!-- BLOG-POST-LIST:START -->
-- [记录一次 stcp 搭配 网卡混杂 的应用](https://Lirzh.top//article/259e6e71-cc04-8010-8ee1-d1a4122e1d2e)
-- [关于信奥赛的一些知识](https://Lirzh.top//article/251e6e71-cc04-802c-b98f-f1dff3cb2e13)
-- [关于HydroOJ的自我看法](https://Lirzh.top//article/HydroOJ-1)
-- [我的世界优化指南](https://Lirzh.top//article/mc-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
