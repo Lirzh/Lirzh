@@ -32,7 +32,6 @@ Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutti
 
 ## 📕 &nbsp;**My Blog**
 <!-- BLOG-POST-LIST:START -->
-- [Nodejs 简单指南](https://fuwari.vercel.app/posts/tools/nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
