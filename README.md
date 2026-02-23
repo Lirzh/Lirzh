@@ -32,6 +32,7 @@ Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutti
 
 ## 📕 &nbsp;**My Blog**
 <!-- BLOG-POST-LIST:START -->
+- [Nodejs 的 Docker 指北](https://www.lirzh.top/posts/tools/nodejs-docker/)
 - [Nodejs 简单指南](https://www.lirzh.top/posts/tools/nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
