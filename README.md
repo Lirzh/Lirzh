@@ -10,6 +10,18 @@ I am currently a Grade 10 student at Putian No.1 High School in Fujian, China.
 
 ---
 
+## About My Name  
+
+`Lirzh` is made up of two parts: `Lir` and `zh`.  
+
+In Irish mythology, **Lir** is the god of the sea, similar to Poseidon.  
+**zh** stands for the initial of my surname, as well as the abbreviation for **China**.  
+
+Together, I prefer to interpret `Lirzh` as **Hai Zhe** — *Sea Cane*.  
+
+It’s a gentle plant that grows by the sea, thrives in the sun, and grows sweeter with time.  
+Unlike ordinary sugarcane, the heart of **Sea Cane** holds an entire ocean.
+
 ## 🎉 Skills
 
 Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutting 🖨️
