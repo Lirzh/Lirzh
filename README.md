@@ -46,11 +46,11 @@ Operation and Maintenance 🔧 | Open Source Hardware 💻 | 3D Printing & Cutti
 
 ## 📕 &nbsp;**My Blog**
 <!-- BLOG-POST-LIST:START -->
-- [从 VSCode 到 Trae：我的 IDE 迁移笔记](https://www.lirzh.top/posts/recommend/trae-ide/)
+- [HMCL 简单指南](https://www.lirzh.top/posts/tools/hmcl/)
 - [中望3D Linux 简单指南](https://www.lirzh.top/posts/tools/zw3d/)
 - [Hydro 系列 - Raid 简单指南](https://www.lirzh.top/posts/tools/raid/raid/)
+- [从 VSCode 到 Trae：我的 IDE 迁移笔记](https://www.lirzh.top/posts/recommend/trae-ide/)
 - [VoiceHub 推荐](https://www.lirzh.top/posts/recommend/voicehub/)
-- [Nodejs 的 Docker 指北](https://www.lirzh.top/posts/tools/nodejs-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
