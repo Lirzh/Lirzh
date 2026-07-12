@@ -4,9 +4,9 @@
 
 Open Source Enthusiast / A boy born in 2010 / INTJ-A / A member of [STCN](https://smart-teach.cn/)
 
-I am currently a Grade 10 student at Putian No.1 High School in Fujian, China.
+I am currently a Grade 11 student at Putian No.1 High School in Fujian, China.
 
-📌 Grade 10 | Boarder | Limited availability for updates and maintenance during school terms.
+📌 Grade 11 | Boarder | Limited availability for updates and maintenance during school terms.
 
 ---
 
